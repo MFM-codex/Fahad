@@ -1,0 +1,9 @@
+<resources>
+    <color name="background">#1C1C1E</color>
+    <color name="display_text">#FFFFFF</color>
+    <color name="btn_number">#333333</color>
+    <color name="btn_operator">#FF9500</color>
+    <color name="btn_function">#A5A5A5</color>
+    <color name="btn_text_dark">#000000</color>
+    <color name="btn_text_light">#FFFFFF</color>
+</resources>
